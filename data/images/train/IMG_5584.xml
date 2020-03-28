@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_5584.JPG</filename>
+	<path>/Users/sunbowen/Desktop/object_regoconition/images/IMG_5584.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cockle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1806</xmin>
+			<ymin>1418</ymin>
+			<xmax>2481</xmax>
+			<ymax>2009</ymax>
+		</bndbox>
+	</object>
+</annotation>

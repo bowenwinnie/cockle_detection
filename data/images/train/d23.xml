@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d23.jpg</filename>
+	<path>/Users/sunbowen/Desktop/object_regoconition/images/d23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>257</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cockle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>45</ymin>
+			<xmax>141</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

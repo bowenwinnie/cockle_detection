@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d85.jpg</filename>
+	<path>/Users/sunbowen/Desktop/object_regoconition/images/d85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cockle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>49</ymin>
+			<xmax>632</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
