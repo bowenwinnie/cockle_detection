@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tuatua_data</folder>
+	<filename>t87.jpg</filename>
+	<path>/Users/sunbowen/Desktop/tuatua_data/t87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>691</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tuatua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>151</ymin>
+			<xmax>715</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
